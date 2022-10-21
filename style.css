@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 body {
+	background-image: url(images/bcgimage.jpg);
 	font-family: 'Roboto', sans-serif;
 	letter-spacing: 2px;
 	word-spacing: 2px;
